@@ -1,0 +1,8 @@
+{
+    "type": "player_wins",
+    "data":{
+        "player_id": "123", 
+        "return_money": 1500 }
+    }
+}
+
